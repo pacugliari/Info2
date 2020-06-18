@@ -2,6 +2,7 @@
 #include "headers/clase6.h"
 #include "headers/clase7.h"
 #include "headers/clase8.h"
+#include "headers/clase9.h"
 
 
 int main(){
@@ -20,8 +21,12 @@ int main(){
 
 	//CLASE8
 	//ejercicio23();
-	ejercicio24();
+	//ejercicio24();
 
+	//CLASE9
+	//ejercicio25();
+	//ejercicio26();
+	ejercicio27();
 
 	return 0;
 }
